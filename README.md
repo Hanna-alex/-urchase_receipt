@@ -1,5 +1,5 @@
 # -urchase_receipt
-## Ccылка  на страницу
+## Ccылка  на страницу:https://hanna-alex.github.io/-urchase_receipt/
 
 - В приложении доступны функции:
     - Добавление товаров
